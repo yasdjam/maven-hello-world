@@ -1,4 +1,5 @@
 # A simple, minimal Maven example: hello world
+# Today is 12/29/2022
 
 To create the files in this git repo we've already run `mvn archetype:generate` from http://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
 
